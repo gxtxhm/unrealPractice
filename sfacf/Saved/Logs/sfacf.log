@@ -1981,3 +1981,566 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.29-04.21.26:327][325]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
 [2024.03.29-04.21.27:584][388]BlueprintLog: New page: Player 컴파일
 [2024.03.29-04.21.27:692][388]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.03.29-04.23.37:698][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.23.37:789][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.23.37:812][900]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.23.37:813][900]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/PlayerFC687E7E4351ABA5899098BB03A78E83.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.23.37:822][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 1.93 sec)
+[2024.03.29-04.23.37:837][900]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.23.37:837][900]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.25.02:475][ 75]BlueprintLog: New page: Player 컴파일
+[2024.03.29-04.25.02:583][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2024.03.29-04.25.08:678][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.25.08:765][393]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.25.08:789][393]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.25.08:790][393]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/Player667679944ECA577A3325BBA365FA1755.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.25.08:800][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 2.05 sec)
+[2024.03.29-04.25.08:812][393]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.25.08:812][393]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.25.10:088][460]BlueprintLog: New page: Player 컴파일
+[2024.03.29-04.25.10:201][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2024.03.29-04.25.57:594][800]BlueprintLog: New page: Player 컴파일
+[2024.03.29-04.25.57:693][800]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.03.29-04.25.57:807][805]BlueprintLog: New page: Player 컴파일
+[2024.03.29-04.25.57:906][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.03.29-04.25.58:309][825]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.25.58:397][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.25.58:420][825]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.25.58:421][825]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/PlayerB8E47B934F05C44AB1E7FC86DBBCE4D2.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.25.58:431][825]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 2.17 sec)
+[2024.03.29-04.25.58:439][825]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.25.58:439][825]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.26.36:631][838]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.03.29-04.26.36:641][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-04.26.36:641][838]PIE: New page: PIE 세션: StartMap (2024. 3. 29. 오후 10:26:36)
+[2024.03.29-04.26.36:641][838]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartMap
+[2024.03.29-04.26.36:646][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004903s)
+[2024.03.29-04.26.36:646][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartMap.StartMap to /Game/Levels/UEDPIE_0_StartMap.StartMap (0.004955s)
+[2024.03.29-04.26.36:646][838]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-04.26.36:647][838]LogAIModule: Creating AISystem for world StartMap
+[2024.03.29-04.26.36:647][838]LogPlayLevel: PIE: World Init took: (0.001456s)
+[2024.03.29-04.26.36:702][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.03.29-04.26.36:704][838]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.03.29-04.26.36:704][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-04.26.36:704][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-04.26.36:704][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-04.26.36:704][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-04.26.36:704][838]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-04.26.36:704][838]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.29-04.26.36:704][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-04.26.36:704][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-04.26.36:705][838]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-04.26.36:705][838]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-04.26.36:705][838]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-04.26.36:708][838]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-04.26.36:717][838]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2024.03.29-04.26.36:718][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-04.26.36:718][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-04.26.36:718][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-04.26.36:720][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.03.29-04.26.36:720][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.03.29-04.26.36:722][838]LogInit: FAudioDevice initialized.
+[2024.03.29-04.26.36:722][838]LogAudio: Display: Audio Device (ID: 11) registered with world 'StartMap'.
+[2024.03.29-04.26.36:722][838]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=10368
+[2024.03.29-04.26.36:722][838]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=11
+[2024.03.29-04.26.36:722][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.03.29-04.26.36:726][838]LogLoad: Game class is 'GMST_C'
+[2024.03.29-04.26.36:727][838]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2024.03.29-13.26.36
+[2024.03.29-04.26.36:727][838]LogWorld: Bringing up level for play took: 0.000963
+[2024.03.29-04.26.36:730][838]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2024.03.29-04.26.36:732][838]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.03.29-04.26.36:732][838]PIE: 서버가 로그인했습니다.
+[2024.03.29-04.26.36:733][838]PIE: 에디터에서 플레이 총 시작 시간 0.092초입니다.
+[2024.03.29-04.26.37:576][883]LogBlueprintUserMessages: [Player_C_0] 1번 누름
+[2024.03.29-04.26.37:576][883]LogBlueprintUserMessages: [Player_C_0] 1 누름!
+[2024.03.29-04.26.38:324][928]LogBlueprintUserMessages: [Player_C_0] 사전 정의값
+[2024.03.29-04.26.38:324][928]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.26.39:775][ 16]LogBlueprintUserMessages: [Player_C_0] 사전 정의값
+[2024.03.29-04.26.39:775][ 16]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.26.40:579][ 65]LogBlueprintUserMessages: [Player_C_0] 사전 정의값
+[2024.03.29-04.26.40:579][ 65]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.26.41:074][ 95]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.26.41:074][ 95]LogBlueprintUserMessages: [Player_C_0] 3 누름!
+[2024.03.29-04.26.42:841][204]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.26.42:841][204]LogBlueprintUserMessages: [Player_C_0] 3 누름!
+[2024.03.29-04.26.43:792][261]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.26.43:792][261]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.26.44:624][311]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.26.44:624][311]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.26.45:129][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-04.26.45:129][339]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMap
+[2024.03.29-04.26.45:129][339]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-04.26.45:129][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-04.26.45:133][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-04.26.45:139][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-04.26.45:188][339]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-04.26.45:188][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.29-04.26.45:190][339]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.29-04.26.45:193][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-04.26.45:196][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2024.03.29-04.26.45:253][340]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2024.03.29-04.32.46:380][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.03.29-04.32.46:382][628]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/StartMap' took 0.058
+[2024.03.29-04.32.46:383][628]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Player] ([2] browsable assets)...
+[2024.03.29-04.32.46:383][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Player]
+[2024.03.29-04.32.46:406][628]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Player_Auto4
+[2024.03.29-04.32.46:407][628]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/Player_Auto4FEB9A3FC4F1076837990448FDF6196EC.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/Autosaves/Game/BluePrints/Player_Auto4.uasset'
+[2024.03.29-04.32.46:409][628]LogFileHelpers: Auto-saving content packages took 0.026
+[2024.03.29-04.36.27:091][617]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.36.27:178][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.36.27:202][617]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.36.27:203][617]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/Player5685A515472D825D9AC403BA1E5D9E6C.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.36.27:213][617]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 2.29 sec)
+[2024.03.29-04.36.27:224][617]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.36.27:224][617]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.36.27:527][633]BlueprintLog: New page: Player 컴파일
+[2024.03.29-04.36.27:635][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.03.29-04.36.29:730][741]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.03.29-04.36.29:739][741]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-04.36.29:740][741]PIE: New page: PIE 세션: StartMap (2024. 3. 29. 오후 10:36:29)
+[2024.03.29-04.36.29:740][741]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartMap
+[2024.03.29-04.36.29:743][741]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003816s)
+[2024.03.29-04.36.29:743][741]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartMap.StartMap to /Game/Levels/UEDPIE_0_StartMap.StartMap (0.003868s)
+[2024.03.29-04.36.29:743][741]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-04.36.29:744][741]LogAIModule: Creating AISystem for world StartMap
+[2024.03.29-04.36.29:744][741]LogPlayLevel: PIE: World Init took: (0.001714s)
+[2024.03.29-04.36.29:800][741]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2024.03.29-04.36.29:804][741]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.03.29-04.36.29:804][741]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-04.36.29:804][741]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-04.36.29:804][741]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-04.36.29:804][741]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-04.36.29:804][741]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-04.36.29:804][741]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.29-04.36.29:804][741]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-04.36.29:804][741]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-04.36.29:805][741]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-04.36.29:805][741]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-04.36.29:805][741]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-04.36.29:808][741]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-04.36.29:822][741]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2024.03.29-04.36.29:822][741]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-04.36.29:822][741]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-04.36.29:822][741]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-04.36.29:823][741]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.03.29-04.36.29:823][741]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.03.29-04.36.29:825][741]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.03.29-04.36.29:826][741]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=2596
+[2024.03.29-04.36.29:826][741]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=12
+[2024.03.29-04.36.29:826][741]LogInit: FAudioDevice initialized.
+[2024.03.29-04.36.29:826][741]LogAudio: Display: Audio Device (ID: 12) registered with world 'StartMap'.
+[2024.03.29-04.36.29:829][741]LogLoad: Game class is 'GMST_C'
+[2024.03.29-04.36.29:830][741]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2024.03.29-13.36.29
+[2024.03.29-04.36.29:830][741]LogWorld: Bringing up level for play took: 0.000840
+[2024.03.29-04.36.29:833][741]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.03.29-04.36.29:835][741]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.03.29-04.36.29:835][741]PIE: 서버가 로그인했습니다.
+[2024.03.29-04.36.29:836][741]PIE: 에디터에서 플레이 총 시작 시간 0.098초입니다.
+[2024.03.29-04.36.30:536][777]LogBlueprintUserMessages: [Player_C_0] Player
+[2024.03.29-04.36.30:536][777]LogBlueprintUserMessages: [Player_C_0] 1 누름!
+[2024.03.29-04.36.32:402][889]LogBlueprintUserMessages: [Player_C_0] Player
+[2024.03.29-04.36.32:402][889]LogBlueprintUserMessages: [Player_C_0] 1 누름!
+[2024.03.29-04.36.32:836][915]LogBlueprintUserMessages: [Player_C_0] 사전 정의값
+[2024.03.29-04.36.32:836][915]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.36.34:237][998]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.34:237][998]LogBlueprintUserMessages: [Player_C_0] 3 누름!
+[2024.03.29-04.36.34:935][ 40]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.34:936][ 40]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.36.35:578][ 79]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.35:578][ 79]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.36.36:069][109]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.36:069][109]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.36.36:103][111]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.36:103][111]LogBlueprintUserMessages: [Player_C_0] 3 누름!
+[2024.03.29-04.36.36:253][120]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.36:253][120]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.36.36:386][128]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.36:386][128]LogBlueprintUserMessages: [Player_C_0] 3 누름!
+[2024.03.29-04.36.36:517][136]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.36:517][136]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.36.36:582][140]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.36:582][140]LogBlueprintUserMessages: [Player_C_0] 3 누름!
+[2024.03.29-04.36.36:711][148]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.36:711][148]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.36.36:809][154]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.36:809][154]LogBlueprintUserMessages: [Player_C_0] 3 누름!
+[2024.03.29-04.36.36:955][163]LogBlueprintUserMessages: [Player_C_0] Player
+[2024.03.29-04.36.36:955][163]LogBlueprintUserMessages: [Player_C_0] 1 누름!
+[2024.03.29-04.36.37:101][172]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.37:101][172]LogBlueprintUserMessages: [Player_C_0] 3 누름!
+[2024.03.29-04.36.37:219][179]LogBlueprintUserMessages: [Player_C_0] Player
+[2024.03.29-04.36.37:219][179]LogBlueprintUserMessages: [Player_C_0] 1 누름!
+[2024.03.29-04.36.37:252][181]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.37:253][181]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.36.37:386][189]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.37:386][189]LogBlueprintUserMessages: [Player_C_0] 3 누름!
+[2024.03.29-04.36.37:501][196]LogBlueprintUserMessages: [Player_C_0] Player
+[2024.03.29-04.36.37:501][196]LogBlueprintUserMessages: [Player_C_0] 1 누름!
+[2024.03.29-04.36.37:518][197]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.37:518][197]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.36.37:778][213]LogBlueprintUserMessages: [Player_C_0] Player
+[2024.03.29-04.36.37:778][213]LogBlueprintUserMessages: [Player_C_0] 1 누름!
+[2024.03.29-04.36.37:894][220]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.37:894][220]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.36.38:041][229]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.36.38:041][229]LogBlueprintUserMessages: [Player_C_0] 3 누름!
+[2024.03.29-04.36.38:336][247]LogBlueprintUserMessages: [Player_C_0] Player
+[2024.03.29-04.36.38:336][247]LogBlueprintUserMessages: [Player_C_0] 1 누름!
+[2024.03.29-04.36.38:536][259]LogBlueprintUserMessages: [Player_C_0] Player
+[2024.03.29-04.36.38:536][259]LogBlueprintUserMessages: [Player_C_0] 1 누름!
+[2024.03.29-04.36.38:720][270]LogBlueprintUserMessages: [Player_C_0] Player
+[2024.03.29-04.36.38:720][270]LogBlueprintUserMessages: [Player_C_0] 1 누름!
+[2024.03.29-04.36.40:052][350]LogBlueprintUserMessages: [Player_C_0] Player
+[2024.03.29-04.36.40:052][350]LogBlueprintUserMessages: [Player_C_0] 1 누름!
+[2024.03.29-04.36.49:330][878]LogViewport: Scene viewport resized to 481x284, mode Windowed.
+[2024.03.29-04.36.56:495][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-04.36.56:495][141]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMap
+[2024.03.29-04.36.56:496][141]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-04.36.56:496][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-04.36.56:500][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-04.36.56:506][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-04.36.56:554][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-04.36.56:555][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.29-04.36.56:557][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.29-04.36.56:559][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-04.36.56:562][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.03.29-04.36.56:589][142]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.03.29-04.40.01:886][523]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.40.02:001][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.40.02:027][523]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.40.02:028][523]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/PlayerA291B1554095AB1A086526AC61DE453B.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.40.02:039][523]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 2.45 sec)
+[2024.03.29-04.40.02:051][523]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.40.02:051][523]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.40.36:805][738]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.40.36:877][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.40.36:906][738]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.40.36:907][738]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/Player16B5027F4D0D2647D85EE08383B17FCD.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.40.36:916][738]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 2.56 sec)
+[2024.03.29-04.40.36:927][738]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.40.36:927][738]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.40.37:721][782]BlueprintLog: New page: Player 컴파일
+[2024.03.29-04.40.37:832][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.03.29-04.43.10:945][238]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.43.11:029][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.43.11:057][238]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.43.11:058][238]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/PlayerE2522D7945272C71078DBABBBD2C4935.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.43.11:067][238]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 2.68 sec)
+[2024.03.29-04.43.11:081][238]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.43.11:082][238]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.43.35:064][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.43.35:145][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.43.35:172][740]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.43.35:173][740]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/PlayerCDFFCE9D478C17E2A8801DBA4BF890B0.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.43.35:183][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 2.80 sec)
+[2024.03.29-04.43.35:193][740]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.43.35:193][740]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.43.36:997][836]BlueprintLog: New page: Player 컴파일
+[2024.03.29-04.43.37:101][836]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.03.29-04.43.47:597][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.43.47:681][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.43.47:709][506]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.43.47:710][506]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/Player315B832945F164407BD70A9AE151AD73.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.43.47:720][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 2.92 sec)
+[2024.03.29-04.43.47:730][506]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.43.47:730][506]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.44.10:916][908]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.44.11:001][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.44.11:029][908]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.44.11:030][908]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/PlayerC3F602AD4EB551217BD436AAA7E64A98.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.44.11:040][908]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 3.05 sec)
+[2024.03.29-04.44.11:048][908]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.44.11:048][908]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.44.24:050][931]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.44.24:132][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.44.24:160][931]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.44.24:161][931]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/Player1BE42AF34D5F0BA7DF68849845389290.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.44.24:171][931]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 3.17 sec)
+[2024.03.29-04.44.24:180][931]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.44.24:180][931]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.44.45:639][157]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.03.29-04.44.45:800][157]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.159 s
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: === Handled ensure: ===
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: 
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid  [File:D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp] [Line: 905] 
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinKnot [SGraphNodeKnot.cpp(421)]). See InvalidateGraphData for more info
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: Stack: 
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffac8b7c0f1 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffac8ab8da3 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffac8b79948 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffac8991e42 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffac8b234b4 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffac8b215c2 UnrealEditor-GraphEditor.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2596950 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2595d90 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffae78a169e UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2595d90 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2595d90 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffae78a14dd UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2596950 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad259a904 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2596afb UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2595d90 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad259a904 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffae78a51bc UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2595d90 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad259a904 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffae78a51bc UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:801][157]LogOutputDevice: Error: [Callstack] 0x00007ffad259a904 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2596afb UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2596950 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2595d90 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad259a904 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2596afb UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2595d90 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2595d90 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffae78a14dd UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2596950 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad259a904 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2596afb UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2595d90 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad259a904 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffae78a51bc UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad259a904 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2596afb UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2596950 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2595d90 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad259a904 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:802][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2596afb UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffad259a904 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2596afb UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2596950 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2595d90 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2599aae UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffad259aa14 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffad2400537 UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffad259ad0b UnrealEditor-SlateCore.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffae759c5f7 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffae759caed UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffae75c0b84 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffae759cc29 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffae75ded43 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.29-04.44.45:803][157]LogOutputDevice: Error: [Callstack] 0x00007ffae75de453 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.29-04.44.45:804][157]LogOutputDevice: Error: [Callstack] 0x00007ff7d09195af UnrealEditor.exe!UnknownFunction []
+[2024.03.29-04.44.45:804][157]LogOutputDevice: Error: [Callstack] 0x00007ff7d093287d UnrealEditor.exe!UnknownFunction []
+[2024.03.29-04.44.45:804][157]LogOutputDevice: Error: [Callstack] 0x00007ff7d093296a UnrealEditor.exe!UnknownFunction []
+[2024.03.29-04.44.45:804][157]LogOutputDevice: Error: [Callstack] 0x00007ff7d0935680 UnrealEditor.exe!UnknownFunction []
+[2024.03.29-04.44.45:804][157]LogOutputDevice: Error: [Callstack] 0x00007ff7d09471b4 UnrealEditor.exe!UnknownFunction []
+[2024.03.29-04.44.45:804][157]LogOutputDevice: Error: [Callstack] 0x00007ff7d094a516 UnrealEditor.exe!UnknownFunction []
+[2024.03.29-04.44.45:804][157]LogOutputDevice: Error: [Callstack] 0x00007ffb3c257344 KERNEL32.DLL!UnknownFunction []
+[2024.03.29-04.44.45:804][157]LogOutputDevice: Error: [Callstack] 0x00007ffb3c7426b1 ntdll.dll!UnknownFunction []
+[2024.03.29-04.44.45:804][157]LogOutputDevice: Error: 
+[2024.03.29-04.44.45:806][157]LogStats:                SubmitErrorReport -  0.000 s
+[2024.03.29-04.44.47:094][157]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-1002ms], ThreadID=9796
+[2024.03.29-04.44.47:094][157]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.03.29-04.44.47:096][157]LogStats:                    SendNewReport -  1.290 s
+[2024.03.29-04.44.47:096][157]LogStats:             FDebug::EnsureFailed -  1.458 s
+[2024.03.29-04.46.33:339][ 56]BlueprintLog: New page: Player 컴파일
+[2024.03.29-04.46.33:441][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.03.29-04.46.34:373][101]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.46.34:455][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.46.34:483][101]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.46.34:483][101]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/Player5B37B1B24A62373A7ACF359BA0865E70.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.46.34:494][101]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 3.29 sec)
+[2024.03.29-04.46.34:504][101]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.46.34:504][101]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.46.36:560][217]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.03.29-04.46.36:568][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-04.46.36:568][217]PIE: New page: PIE 세션: StartMap (2024. 3. 29. 오후 10:46:36)
+[2024.03.29-04.46.36:568][217]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartMap
+[2024.03.29-04.46.36:571][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003296s)
+[2024.03.29-04.46.36:572][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartMap.StartMap to /Game/Levels/UEDPIE_0_StartMap.StartMap (0.003361s)
+[2024.03.29-04.46.36:572][217]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-04.46.36:572][217]LogAIModule: Creating AISystem for world StartMap
+[2024.03.29-04.46.36:573][217]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2024.03.29-04.46.36:628][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.03.29-04.46.36:631][217]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.03.29-04.46.36:631][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-04.46.36:631][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-04.46.36:631][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-04.46.36:631][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-04.46.36:631][217]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-04.46.36:631][217]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.29-04.46.36:631][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-04.46.36:631][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-04.46.36:632][217]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-04.46.36:632][217]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-04.46.36:632][217]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-04.46.36:636][217]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-04.46.36:649][217]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2024.03.29-04.46.36:650][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-04.46.36:650][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-04.46.36:650][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-04.46.36:651][217]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.03.29-04.46.36:651][217]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.03.29-04.46.36:654][217]LogInit: FAudioDevice initialized.
+[2024.03.29-04.46.36:654][217]LogAudio: Display: Audio Device (ID: 13) registered with world 'StartMap'.
+[2024.03.29-04.46.36:654][217]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=11888
+[2024.03.29-04.46.36:654][217]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.03.29-04.46.36:654][217]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=13
+[2024.03.29-04.46.36:658][217]LogLoad: Game class is 'GMST_C'
+[2024.03.29-04.46.36:659][217]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2024.03.29-13.46.36
+[2024.03.29-04.46.36:659][217]LogWorld: Bringing up level for play took: 0.001219
+[2024.03.29-04.46.36:662][217]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.03.29-04.46.36:665][217]PIE: 서버가 로그인했습니다.
+[2024.03.29-04.46.36:665][217]PIE: 에디터에서 플레이 총 시작 시간 0.098초입니다.
+[2024.03.29-04.46.41:902][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-04.46.41:903][526]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMap
+[2024.03.29-04.46.41:903][526]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-04.46.41:903][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-04.46.41:915][526]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-04.46.41:921][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-04.46.41:972][526]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-04.46.41:973][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.29-04.46.41:977][526]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.29-04.46.41:979][526]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-04.46.41:982][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.03.29-04.46.42:033][527]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.03.29-04.47.17:935][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.47.18:025][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.47.18:053][320]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.47.18:054][320]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/PlayerE6D9E8D74BEE19427311D189A7482CEB.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.47.18:063][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 3.42 sec)
+[2024.03.29-04.47.18:074][320]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.47.18:074][320]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.47.21:285][479]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.47.21:358][479]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.47.21:386][479]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.47.21:387][479]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/Player323C22C3440BB8462B9F4BBA76FD0A78.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.47.21:398][479]LogFileHelpers: InternalPromptForCheckoutAndSave took 113 ms (total: 3.53 sec)
+[2024.03.29-04.47.21:411][479]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.47.21:411][479]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.47.22:257][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.47.22:361][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.03.29-04.47.22:373][525]LogSavePackage: Moving output files for package: /Game/Levels/StartMap
+[2024.03.29-04.47.22:374][525]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/StartMap91764EA943F29E4CD03C2E8F8A74EE85.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/Levels/StartMap.umap'
+[2024.03.29-04.47.22:403][525]LogFileHelpers: Saving map 'StartMap' took 0.092
+[2024.03.29-04.47.22:412][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 3.69 sec)
+[2024.03.29-04.47.22:422][525]AssetCheck: New page: 에셋 저장:  StartMap
+[2024.03.29-04.47.22:422][525]LogContentValidation: Display: /Script/Engine.World /Game/Levels/StartMap.StartMap 유효성 검사 중
+[2024.03.29-04.47.26:707][740]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.47.26:790][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.47.26:822][740]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.47.26:823][740]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/PlayerB7FE32994DA031F3204FFF93557129D0.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.47.26:833][740]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 3.81 sec)
+[2024.03.29-04.47.26:840][740]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.47.26:841][740]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.47.29:510][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.29-04.47.29:591][874]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/Player" FILE="../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset" SILENT=true
+[2024.03.29-04.47.29:620][874]LogSavePackage: Moving output files for package: /Game/BluePrints/Player
+[2024.03.29-04.47.29:621][874]LogSavePackage: Moving '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Saved/PlayerDF42831147D12437DD29B9BC1FDD3F88.tmp' to '../../../../../../Users/user/Documents/Unreal Projects/unrealPractice/sfacf/Content/BluePrints/Player.uasset'
+[2024.03.29-04.47.29:631][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 3.93 sec)
+[2024.03.29-04.47.29:639][874]AssetCheck: New page: 에셋 저장:  Player
+[2024.03.29-04.47.29:639][874]LogContentValidation: Display: /Script/Engine.Blueprint /Game/BluePrints/Player.Player 유효성 검사 중
+[2024.03.29-04.47.30:204][904]BlueprintLog: New page: Player 컴파일
+[2024.03.29-04.47.30:307][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.03.29-04.47.36:446][218]LogDebuggerCommands: Repeating last play command: 선택된 뷰포트
+[2024.03.29-04.47.36:456][218]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.29-04.47.36:456][218]PIE: New page: PIE 세션: StartMap (2024. 3. 29. 오후 10:47:36)
+[2024.03.29-04.47.36:456][218]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_StartMap
+[2024.03.29-04.47.36:460][218]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003715s)
+[2024.03.29-04.47.36:460][218]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/StartMap.StartMap to /Game/Levels/UEDPIE_0_StartMap.StartMap (0.003761s)
+[2024.03.29-04.47.36:460][218]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.29-04.47.36:461][218]LogAIModule: Creating AISystem for world StartMap
+[2024.03.29-04.47.36:461][218]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2024.03.29-04.47.36:537][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2024.03.29-04.47.36:542][218]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.03.29-04.47.36:542][218]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.29-04.47.36:542][218]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.29-04.47.36:542][218]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.29-04.47.36:542][218]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.29-04.47.36:542][218]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.29-04.47.36:542][218]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.03.29-04.47.36:542][218]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.29-04.47.36:542][218]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.29-04.47.36:543][218]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.29-04.47.36:543][218]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.29-04.47.36:543][218]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.29-04.47.36:548][218]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.29-04.47.36:558][218]LogAudioMixer: Display: Using Audio Hardware Device Unknown
+[2024.03.29-04.47.36:559][218]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.29-04.47.36:559][218]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.29-04.47.36:559][218]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.29-04.47.36:560][218]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.03.29-04.47.36:560][218]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.03.29-04.47.36:562][218]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.03.29-04.47.36:562][218]LogInit: FAudioDevice initialized.
+[2024.03.29-04.47.36:562][218]LogAudio: Display: Audio Device (ID: 14) registered with world 'StartMap'.
+[2024.03.29-04.47.36:562][218]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=2700
+[2024.03.29-04.47.36:562][218]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=14
+[2024.03.29-04.47.36:566][218]LogLoad: Game class is 'GMST_C'
+[2024.03.29-04.47.36:567][218]LogWorld: Bringing World /Game/Levels/UEDPIE_0_StartMap.StartMap up for play (max tick rate 0) at 2024.03.29-13.47.36
+[2024.03.29-04.47.36:567][218]LogWorld: Bringing up level for play took: 0.000982
+[2024.03.29-04.47.36:570][218]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2024.03.29-04.47.36:573][218]PIE: 서버가 로그인했습니다.
+[2024.03.29-04.47.36:574][218]PIE: 에디터에서 플레이 총 시작 시간 0.117초입니다.
+[2024.03.29-04.47.40:388][427]LogBlueprintUserMessages: [Player_C_0] 점프 호출
+[2024.03.29-04.47.40:388][427]LogBlueprintUserMessages: [Player_C_0] Jumping
+[2024.03.29-04.47.40:537][435]LogBlueprintUserMessages: [Player_C_0] 점프 스탑 호출
+[2024.03.29-04.47.40:537][435]LogBlueprintUserMessages: [Player_C_0] Stop Jumping
+[2024.03.29-04.47.41:510][488]LogBlueprintUserMessages: [Player_C_0] 점프 호출
+[2024.03.29-04.47.41:511][488]LogBlueprintUserMessages: [Player_C_0] Jumping
+[2024.03.29-04.47.41:640][495]LogBlueprintUserMessages: [Player_C_0] 점프 스탑 호출
+[2024.03.29-04.47.41:640][495]LogBlueprintUserMessages: [Player_C_0] Stop Jumping
+[2024.03.29-04.47.42:681][552]LogBlueprintUserMessages: [Player_C_0] Player
+[2024.03.29-04.47.42:681][552]LogBlueprintUserMessages: [Player_C_0] 1 누름!
+[2024.03.29-04.47.43:063][574]LogBlueprintUserMessages: [Player_C_0] 사전 정의값
+[2024.03.29-04.47.43:063][574]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.47.43:323][589]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.47.43:323][589]LogBlueprintUserMessages: [Player_C_0] 3 누름!
+[2024.03.29-04.47.44:187][638]LogBlueprintUserMessages: [Player_C_0] 점프 호출
+[2024.03.29-04.47.44:187][638]LogBlueprintUserMessages: [Player_C_0] Jumping
+[2024.03.29-04.47.44:260][642]LogBlueprintUserMessages: [Player_C_0] 점프 스탑 호출
+[2024.03.29-04.47.44:260][642]LogBlueprintUserMessages: [Player_C_0] Stop Jumping
+[2024.03.29-04.47.44:407][650]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.47.44:407][650]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.47.45:434][706]LogBlueprintUserMessages: [Player_C_0] 값 세팅
+[2024.03.29-04.47.45:434][706]LogBlueprintUserMessages: [Player_C_0] 2 누름!
+[2024.03.29-04.47.45:858][729]LogBlueprintUserMessages: [Player_C_0] 점프 호출
+[2024.03.29-04.47.45:858][729]LogBlueprintUserMessages: [Player_C_0] Jumping
+[2024.03.29-04.47.45:987][736]LogBlueprintUserMessages: [Player_C_0] 점프 스탑 호출
+[2024.03.29-04.47.45:987][736]LogBlueprintUserMessages: [Player_C_0] Stop Jumping
+[2024.03.29-04.47.47:783][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-04.47.47:783][833]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_StartMap
+[2024.03.29-04.47.47:784][833]LogWorld: UWorld::CleanupWorld for StartMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.29-04.47.47:784][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-04.47.47:796][833]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.29-04.47.47:803][833]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.29-04.47.47:850][833]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.29-04.47.47:851][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.29-04.47.47:853][833]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.03.29-04.47.47:855][833]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.29-04.47.47:858][833]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.03.29-04.47.47:905][834]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2024.03.29-04.51.41:484][981]LogEditorTransaction: Undo 경유 노드 생성
